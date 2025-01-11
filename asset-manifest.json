@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hackerrank-assignment/static/css/main.d91b3fa8.css",
+    "main.js": "/hackerrank-assignment/static/js/main.ac7f6ba5.js",
+    "static/js/488.cf127195.chunk.js": "/hackerrank-assignment/static/js/488.cf127195.chunk.js",
+    "index.html": "/hackerrank-assignment/index.html",
+    "main.d91b3fa8.css.map": "/hackerrank-assignment/static/css/main.d91b3fa8.css.map",
+    "main.ac7f6ba5.js.map": "/hackerrank-assignment/static/js/main.ac7f6ba5.js.map",
+    "488.cf127195.chunk.js.map": "/hackerrank-assignment/static/js/488.cf127195.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d91b3fa8.css",
+    "static/js/main.ac7f6ba5.js"
+  ]
+}
